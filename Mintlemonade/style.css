@@ -16,6 +16,13 @@ h2{
     /*float: left;*/
     width: 24%;
 }
+#thetriangle{
+    height: 0px;
+    width: 0px;
+    border-left: 76px solid transparent;
+    border-right: 76px solid transparent;
+    border-bottom: 150px solid white;
+}
 #square{
     background-color: blue;
     margin: 3px;
