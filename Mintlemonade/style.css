@@ -12,16 +12,34 @@ h2{
 #triangle{
     background-color: green;
     margin: 3px;
+    display: inline-block;
+    /*float: left;*/
+    width: 24%;
 }
 #square{
     background-color: blue;
     margin: 3px;
+    display: inline-block;
+    /*float: left;*/
+    width: 24%;
+}
+
+#thesquare{
+    height: 150px;
+    width: 150px;
+    background: white;
 }
 #rectangle{
     background-color: yellow;
     margin: 3px;
+    display: inline-block;
+    /*float: left*/;
+    width: 24%;
 }
 #circle{
     background-color: red;
     margin: 3px;
+    display: inline-block;
+    /*float: left;*/
+    width: 24%;
 }
